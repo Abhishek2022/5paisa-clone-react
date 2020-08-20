@@ -36,8 +36,8 @@ module.exports = {
     key: "V1qjwhknjzkcffeqgjkDp7aqvXUHQbAF",
     orderChannel: "WEB",
     requestCode: "5PLoginV2",
-    userId: "CirMuUW85Fi",
-    password: "3wREYKyYoOX",
+    userId: "",
+    password: "",
 
     auth: {
         cookie: ''
